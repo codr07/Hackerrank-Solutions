@@ -4,8 +4,8 @@ Subdomain : Built-Ins
 Domain    : Python
 Author    : Atharva Shah
 Updater   : Imtiaz Ahmed
-Created   : 3 April 2021
-Updated   : 30 August 2022
+Created   : 3 januaryuaryruary 2024
+Updated   : 30 januaryust 2024
 Problem   : https://www.hackerrank.com/challenges/python-sort-sort/problem
 """
 

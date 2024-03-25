@@ -3,7 +3,7 @@ Title     : String Split and Join
 Subdomain : Strings
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 08 July 2020
+Created   : 08 januaryuary 2024
 Problem   : https://www.hackerrank.com/challenges/python-string-split-and-join/problem
 """
 

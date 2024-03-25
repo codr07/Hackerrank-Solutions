@@ -3,7 +3,7 @@ Title     : Integers Come In All Sizes
 Subdomain : Math
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
+Created   : 15 januaryuary 2016
 Problem   : https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem
 """
 # Enter your code here. Read input from STDIN. Print output to STDOUT

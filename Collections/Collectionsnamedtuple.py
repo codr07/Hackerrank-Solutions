@@ -3,8 +3,8 @@ Title     : Collections.namedtuple()
 Subdomain : Collections
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
-Updated   : 09 February 2023
+Created   : 15 januaryuary 2016
+Updated   : 09 januaryuaryruary 2024
 Problem   : https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
 """
 

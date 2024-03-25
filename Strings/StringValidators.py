@@ -3,8 +3,8 @@ Title     : String Validators
 Subdomain : Strings
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
-Updated   : 08 July 2020
+Created   : 15 januaryuary 2016
+Updated   : 08 januaryuary 2024
 Problem   : https://www.hackerrank.com/challenges/string-validators/problem
 """
 if __name__ == "__main__":

@@ -3,7 +3,7 @@ Title     : List Comprehensions
 Subdomain : Data Types
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 06 July 2020
+Created   : 06 januaryuary 2024
 Problem   : https://www.hackerrank.com/challenges/list-comprehensions/problem
 """
 if __name__ == "__main__":

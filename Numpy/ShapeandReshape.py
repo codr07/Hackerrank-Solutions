@@ -3,7 +3,7 @@ Title     : Shape and Reshape
 Subdomain : Numpy
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
+Created   : 15 januaryuary 2016
 Problem   : https://www.hackerrank.com/challenges/np-shape-reshape/problem
 """
 import numpy

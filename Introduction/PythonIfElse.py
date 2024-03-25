@@ -3,7 +3,7 @@ Title     : Python If-Else
 Subdomain : Introduction
 Domain    : Python
 Author    : Utkarsh Mishra
-Created   : 27 Jan 2021
+Created   : 27 january 2024
 Problem   : https://www.hackerrank.com/challenges/py-if-else/problem
 """
 

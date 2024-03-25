@@ -3,9 +3,9 @@ Title     : Symmetric Difference
 Subdomain : Sets
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
-Updated   : 15 March 2021
-Updated   : 19 June 2022
+Created   : 15 januaryuary 2016
+Updated   : 15 januaryuary 2024
+Updated   : 19 januaryuaryruary 2024
 Problem   : https://www.hackerrank.com/challenges/symmetric-difference/problem
 """
 m = int(input())

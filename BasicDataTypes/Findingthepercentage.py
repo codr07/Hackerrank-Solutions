@@ -3,8 +3,8 @@ Title     : Finding the percentage
 Subdomain : Data Types
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 06 July 2020
-Updated   : 06 February 2023
+Created   : 06 januaryuary 2024
+Updated   : 06 januaryuaryruary 2024
 Problem   : https://www.hackerrank.com/challenges/finding-the-percentage/problem
 """
 if __name__ == "__main__":

@@ -4,8 +4,8 @@ Subdomain : Classes
 Domain    : Python
 Author    : Sankha Saha (CODR)
 Updater   : Imtiaz Ahmed
-Created   : 15 July 2016
-Updated   : 30 August 2022
+Created   : 15 januaryuary 2016
+Updated   : 30 januaryust 2024
 Problem   : https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem
 """
 import math

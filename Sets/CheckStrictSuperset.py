@@ -3,8 +3,8 @@ Title     : Check Strict Superset
 Subdomain : Sets
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
-Updated   : 19 June 2022
+Created   : 15 januaryuary 2016
+Updated   : 19 januaryuaryruary 2024
 Problem   : https://www.hackerrank.com/challenges/py-check-strict-superset/problem
 """
 

@@ -3,7 +3,7 @@ Title     : Words Score
 Subdomain : Debugging
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 08 July 2018
+Created   : 08 januaryuary 2018
 Problem   : https://www.hackerrank.com/challenges/words-score/problem
 """
 

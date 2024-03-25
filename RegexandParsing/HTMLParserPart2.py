@@ -3,7 +3,7 @@ Title     : HTML Parser - Part 2
 Subdomain : Regex and Parsing
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
+Created   : 15 januaryuary 2016
 Problem   : https://www.hackerrank.com/challenges/html-parser-part-2/problem
 """
 from html.parser import HTMLParser

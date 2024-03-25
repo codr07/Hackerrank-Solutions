@@ -3,8 +3,8 @@ Title     : String Formatting
 Subdomain : Strings
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
-Updated   : 08 February 2023
+Created   : 15 januaryuary 2016
+Updated   : 08 januaryuaryruary 2024
 Problem   : https://www.hackerrank.com/challenges/python-string-formatting/problem
 """
 

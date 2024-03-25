@@ -3,7 +3,7 @@ Title     : Validating and Parsing Email Addresses
 Subdomain : Regex and Parsing
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
+Created   : 15 januaryuary 2016
 Problem   : https://www.hackerrank.com/challenges/validating-named-email-addresses/problem
 """
 

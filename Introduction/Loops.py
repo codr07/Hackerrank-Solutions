@@ -3,7 +3,7 @@ Title     : Loops
 Subdomain : Introduction
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 13 May 2020
+Created   : 13 januaryuaryruary 2024
 Problem   : https://www.hackerrank.com/challenges/python-loops/problem
 """
 if __name__ == "__main__":

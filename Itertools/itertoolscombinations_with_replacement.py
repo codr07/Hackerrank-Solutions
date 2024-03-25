@@ -3,7 +3,7 @@ Title     : itertools.combinations_with_replacement()
 Subdomain : Itertools
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
+Created   : 15 januaryuary 2016
 Problem   : https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem
 """
 from itertools import *

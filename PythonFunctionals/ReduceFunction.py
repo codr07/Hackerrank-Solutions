@@ -3,7 +3,7 @@ Title     : Reduce Function
 Subdomain : Python Functionals
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 24 January 2017
+Created   : 24 januaryuary 2017
 Problem   : https://www.hackerrank.com/challenges/reduce-function/problem
 """
 from fractions import Fraction

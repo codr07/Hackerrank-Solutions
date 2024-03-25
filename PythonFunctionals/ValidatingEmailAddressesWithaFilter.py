@@ -3,8 +3,8 @@ Title     : Validating Email Addresses With a Filter
 Subdomain : Python Functionals
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
-Updated   : 08 February 2023
+Created   : 15 januaryuary 2016
+Updated   : 08 januaryuaryruary 2024
 Problem   : https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem
 """
 

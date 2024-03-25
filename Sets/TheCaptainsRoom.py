@@ -3,7 +3,7 @@ Title     : The Captains Room
 Subdomain : Sets
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
+Created   : 15 januaryuary 2016
 Problem   : https://www.hackerrank.com/challenges/py-the-captains-room/problem
 """
 k = int(input())

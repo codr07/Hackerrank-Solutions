@@ -3,7 +3,7 @@ Title     : Word Order
 Subdomain : Collections
 Domain    : Python
 Author    : Sankha Saha (CODR)
-Created   : 15 July 2016
+Created   : 15 januaryuary 2016
 Problem   : https://www.hackerrank.com/challenges/word-order/problem
 """
 from collections import Counter, OrderedDict
