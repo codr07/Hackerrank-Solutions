@@ -1,6 +1,6 @@
 ## Hackerrank Python Domain Solutions
 
-- Solutions of **Hackerrank Python Domain** challenges. The codes januaryuaryruary give a head start if you are stuck somewhere! 
+- Solutions of **Hackerrank Python Domain** challenges. The codes may give a head start if you are stuck somewhere! 
 - If you have better code (I like readable code rather than short liner), send pull request. 
 - Challenges can be found in [https://www.hackerrank.com/domains/python](https://www.hackerrank.com/domains/python).
 - Bonus: I have created [Hackerrank_Solution_Blank_File_Creator.py](HackerrankUtility/Hackerrank_Solution_Blank_File_Creator.py) to generate the blank file for each challenges. Have a look in [HackerrankUtility](HackerrankUtility) folder.
