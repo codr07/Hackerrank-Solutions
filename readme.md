@@ -156,15 +156,7 @@
 
 <hr>
 
-- Watch demonstration process in [Youtube video: Hackerrank Solution Blank File Creator DEMO](https://youtu.be/G3hq5upfPEI)
-
-
-[![https://youtu.be/G3hq5upfPEI](http://img.youtube.com/vi/G3hq5upfPEI/0.jpg)](https://youtu.be/G3hq5upfPEI)
-
 ### Contributors
 
-[![https://github.com/arsho/Hackerrank_Python_Domain_Solutions/graphs/contributors](https://contrib.rocks/image?repo=arsho/Hackerrank_Python_Domain_Solutions)](https://github.com/arsho/Hackerrank_Python_Domain_Solutions/graphs/contributors)
+[![https://github.com/arsho/Hackerrank_Python_Domain_Solutions/graphs/contributors](https://contrib.rocks/image?repo=codr07/Hackerrank-Solutions)](https://github.com/codr07/Hackerrank-Solutions/graphs/contributors)
 
-### Contact
-
-If you want to contact me you can reach me at [arshovon.com](https://arshovon.com/).
