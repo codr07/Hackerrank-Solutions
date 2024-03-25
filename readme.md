@@ -158,5 +158,5 @@
 
 ### Contributors
 
-[![https://github.com/codr07/Hackerrank_Python_Domain_Solutions/graphs/contributors](https://contrib.rocks/image?repo=codr07/Hackerrank-Solutions)](https://github.com/codr07/Hackerrank-Solutions/graphs/contributors)
+[![https://github.com/codr07/Hackerrank-Solutions/graphs/contributors](https://contrib.rocks/image?repo=codr07/Hackerrank-Solutions)](https://github.com/codr07/Hackerrank-Solutions/graphs/contributors)
 
